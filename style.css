@@ -1,0 +1,16 @@
+h3{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+#submit_button{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+#sort_button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: none;
+}
+input{
+    margin: 10px;
+}
